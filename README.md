@@ -22,20 +22,23 @@ Além disso, é necessário instalar a biblioteca `pypdf`:
 
 ```bash
 pip install pypdf
+```
 🚀 Como Usar
 1. Clonar o Repositório
 Baixe ou clone este repositório para sua máquina local:
-
-Bash
+```Bash
 
 git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
 cd SEU_REPOSITORIO
+
+```
 2. Executar o Script
 Execute o arquivo Python para abrir a interface gráfica:
 
-Bash
+```Bash
 
 python pdf_splitter_gui.py
+```
 3. Usando a Interface
 Clique em "Abrir PDF": Selecione o arquivo PDF que você deseja dividir.
 
