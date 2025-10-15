@@ -28,8 +28,8 @@ pip install pypdf
 Baixe ou clone este repositório para sua máquina local:
 ```Bash
 
-git clone [https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git](https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git)
-cd SEU_REPOSITORIO
+git clone(https://github.com/Kaneka4850/Separador-de-pdf)
+cd Separador-de-pdf
 
 ```
 2. Executar o Script
